@@ -12,7 +12,9 @@ As a researcher, I am committed to **Trustworthy AI's** future. Building **State
 #### 🛠 Technical Stack
 * **GenAI:** LangChain, LangGraph, Llama-3, RAG Architectures
 * **Deep Learning:** PyTorch, YOLOv8, Computer Vision
-* **Core:** Python, SQL, Vector Databases (Chroma/FAISS)
+* **Machine Learning:** Regression, Classification, Clustering, Random Forest, Dimensionality Reduction (PCA), Hypothesis Testing, TensorFlow, PyTorch,.
+* **Programming:** Puthon, SQL, R.
+* **Deployment:** Streamlit, Python API Integration.
 
 #### 🎓 Education
 * **Master's of science in Business Data Analytics** | Lawrence Technological University (GPA: 3.81)
