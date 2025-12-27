@@ -12,7 +12,7 @@ As a researcher, I am committed to **Trustworthy AI's** future. Building **State
 #### 🛠 Technical Stack
 * **GenAI:** LangChain, LangGraph, Llama-3, RAG Architectures
 * **Deep Learning:** PyTorch, YOLOv8, Computer Vision
-* **Machine Learning:** Regression, Classification, Clustering, Random Forest, Dimensionality Reduction (PCA), Hypothesis Testing, TensorFlow, PyTorch,.
+* **Machine Learning:** Regression, Classification, Clustering, Random Forest, Dimensionality Reduction (PCA), Hypothesis Testing.
 * **Programming:** Puthon, SQL, R.
 * **Deployment:** Streamlit, Python API Integration.
 
