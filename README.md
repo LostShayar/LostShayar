@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Aves Abdul
 
-<!--
-**LostShayar/LostShayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Researcher | Agentic Systems & Generative AI**
 
-Here are some ideas to get you started:
+As a researcher, I am committed to **Trustworthy AI's** future. Building **Stateful Agents** and **Neuro-Symbolic architectures** that are capable of reasoning, verifying, and acting in complicated settings is the main emphasis of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Current Research Focus
+* **Generative AI & Agents:** Designing stateful, multi-actor workflows (LangGraph) to solve complex reasoning tasks.
+* **Trustworthy Computer Vision:** Reducing hallucinations in object detection (YOLOv8) for practical implementation.
+* **AI Reliability:** Applying systems-engineering rigor to ensure AI models are safe and explainable.
+
+#### 🛠 Technical Stack
+* **GenAI:** LangChain, LangGraph, Llama-3, RAG Architectures
+* **Deep Learning:** PyTorch, YOLOv8, Computer Vision
+* **Core:** Python, SQL, Vector Databases (Chroma/FAISS)
+
+#### 🎓 Education
+* **Master's of science in Business Data Analytics** | Lawrence Technological University (GPA: 3.81)
+* **Bachelor's of technology Mechanical Engineering** 
