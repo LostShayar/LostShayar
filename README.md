@@ -16,4 +16,4 @@ As a researcher, I am committed to **Trustworthy AI's** future. Building **State
 
 #### 🎓 Education
 * **Master's of science in Business Data Analytics** | Lawrence Technological University (GPA: 3.81)
-* **Bachelor of technology Mechanical Engineering** 
+* **Bachelor of technology in Mechanical Engineering** 
